@@ -7,10 +7,6 @@ This package contains a standalone model called PoseNet, as well as some demos, 
 
 PoseNet can be used to estimate either a single pose or multiple poses, meaning there is a version of the algorithm that can detect only one person in an image/video and one version that can detect multiple persons in an image/video.
 
-## Documentation Note
-
->The README you see here is for the [PoseNet 2.0 version](https://www.npmjs.com/package/@tensorflow-models/posenet). For README of the previous 1.0 version, please look at the [README published on NPM](https://www.npmjs.com/package/@tensorflow-models/posenet/v/1.0.3).
-
 ## Installation
 
 You can use this as standalone es5 bundle like this:
